@@ -1,0 +1,1 @@
+mongodb+srv://mongomb:mongomb@cluster0.5yfvvkp.mongodb.net/?retryWrites=true&w=majority
